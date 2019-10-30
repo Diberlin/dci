@@ -1,0 +1,55 @@
+body {
+    background-image: url(bote.gif);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.foto {
+    margin-top: 0px;
+    margin-left: 20px;
+
+
+}
+
+img {
+    border-radius: 900px;
+}
+
+
+}
+
+.gracias {
+    margin-top: 100px;
+}
+
+.carta {
+    margin-top: 180px;
+    margin-left: 10px;
+}
+
+h1 {
+    color: darkslategray;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: purple;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+#texto p {
+    font-family: arial;
+    font-size: 20px;
+}
+}
